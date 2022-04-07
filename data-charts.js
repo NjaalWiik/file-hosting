@@ -128,11 +128,11 @@
 				],
 				datasets: [
 					{
-						label: 'Sales',
+						label: 'Revenue',
 						data: [25, 20, 30, 22, 17, 10, 18, 26, 28, 26, 20, 32]
 					},
 					{
-						label: 'Affiliate',
+						label: 'Costs',
 						data: [1, 2, 1, 3, 2, 2, 3, 1, 4, 2, 3, 1],
 						backgroundColor: '#d2ddec',
 						hidden: true
@@ -165,11 +165,6 @@
 					{
 						data: [60, 25, 15],
 						backgroundColor: ['#2C7BE5', '#A6C5F7', '#D2DDEC']
-					},
-					{
-						data: [15, 45, 20],
-						backgroundColor: ['#2C7BE5', '#A6C5F7', '#D2DDEC'],
-						hidden: true
 					}
 				]
 			}
